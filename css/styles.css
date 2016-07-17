@@ -242,7 +242,9 @@ dd {
   background-position: top;
 }*/
 /*IE TWEAK */
-/*body {
+/*
+
+ */body {
   margin: 0;
   padding: 0;
   background: #CCCC99 url(../images/bg-main.gif) repeat-y left top;
